@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+Flask-JWT-Extended
+Flask-Login
+Werkzeug
+qrcode
+Pillow  # Required for qrcode
+geopy  # For location validation
+requests
